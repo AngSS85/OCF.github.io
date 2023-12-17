@@ -1,0 +1,71 @@
+{
+   
+    
+    "Post-header": {
+        "RY": "Reserve NOW!"
+    },
+
+    "nav_inicio": {
+    "SB": "About us",
+    "U" : "Units",
+    "S" : "Servicios",
+    "T" : "Rates",
+    "+I": "+ Information"
+       },
+
+    "contain": {
+        "bv": "WELCOME <br> TO YOUR ISLAND HOME",
+        "sl": "Feel free to enjoy in the pearl of the caribbean!"
+        },
+    
+    "main-json": {
+        "h2-main": "Our <br> facilities",
+
+        "p-main": "At Posada <em>Casa de las Flores</em>, we invite you to live an exceptional experience in an environment surrounded by natural beauty and comfort. Our (Hospedaje/Posada/Hostal/Lodging house/Auberge) has first quality facilities, designed to provide you with an unforgettable and affordable stay."
+    },
+
+    "Temporal": {
+        "Tem": "Pictures Coming Soon"    
+    },
+
+    "div-card": {
+    
+        "UC": "Available units",
+        "M": "Matrimonial",
+        "MP": "Couple or large family? no problem",
+        "D": "Duplex",
+        "DG": "Group of friends? Welcome.",
+        "C": "Shared",
+        "CG": "Large group? at your service"
+    },
+
+    "div-main": {
+    
+        "h2-main": "Services",
+        "p-main": "As a good lodging center we offer full kitchen availability, plenty of bathrooms, swimming pool and jacuzzi 24 hours a day, large dining room for meetings with outdoor grill, less than five minutes to reach one of the most touristic beaches of the island (Playa Parguito) and much more."
+        
+    },
+
+    "i-costos": {
+        "h2-costos": "Rates",
+        "li1-costos": "30$ person / day",
+        "li2-costos": "30",
+        "li3-costos": "30"
+        
+    },
+
+    "ms-info": {
+    
+        "info-h2": "+ Information",
+        "ubi-h2": "Location",
+        "text-h2": "Coordinates",
+        "local-h2": "location",
+        "contac-h2": "Contact us",
+        "tlf-h2": "Phone",
+        "mail-h2": "E-mail address"    
+
+    }
+
+}
+
+    

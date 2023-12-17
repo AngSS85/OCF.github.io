@@ -1,0 +1,71 @@
+{   
+    
+    "Post-header": {
+        "RY": "Réservez MAINTENANT!"
+    },
+   
+   "nav_inicio": {
+    "SB": "A propos de nous",
+    "U" : "Unités",
+    "S" : "Services",
+    "T" : "Tarifs",
+    "+I": "+ d'informations"
+   },
+
+    "contain": {
+        "bv": "BIENVENUE <br> DANS VOTRE MAISON SUR L'ÎLE",
+        "sl": "N'hésitez pas à profiter de la perle des Caraïbes !"
+    },
+
+    "main-json": {
+        "h2-main": "Nos <br> installations",
+
+        "p-main": "À la Posada <em>Casa de las Flores</em>, nous vous invitons à vivre une expérience exceptionnelle dans un environnement entouré de beauté naturelle et de confort. Notre (Hospedaje/Posada/Hostal/Lodging house/Auberge) dispose d'installations de qualité supérieure, conçues pour vous offrir un séjour inoubliable à un prix abordable."
+    },
+
+    "Temporal": {
+        "Tem": "Photos à venir"    
+    },
+
+    "div-card": {
+    
+        "UC": "Unités disponibles",
+        "M": "Matrimonial",
+        "MP": "Couple ou famille nombreuse ? pas de problème",
+        "D": "Duplex",
+        "DG": "Groupe d'amis ? Vous êtes les bienvenus",
+        "C": "Partagés",
+        "CG": "Grand groupe ? à votre service"
+    },
+
+    "div-main": {
+    
+        "h2-main": "Services",
+        "p-main": "En tant que centre d'hébergement de qualité, nous proposons une cuisine complète, de nombreuses salles de bains, une piscine et un jacuzzi ouverts 24 heures sur 24, une grande salle à manger pour les réunions avec grill extérieur, à moins de cinq minutes de l'une des plages les plus touristiques de l'île (Playa Parguito) et bien d'autres choses encore."
+        
+    },
+
+    "i-costos": {
+        "h2-costos": "tarifs",
+        "li1-costos": "30$ personne / jour",
+        "li2-costos": "30",
+        "li3-costos": "30"
+        
+    },
+
+    "ms-info": {
+    
+        "info-h2": "+ d'informations",
+        "ubi-h2": "Localisation",
+        "text-h2": "Coordonnées",
+        "local-h2": "Emplacement",
+        "contac-h2": "contactez-nous",
+        "tlf-h2": "Téléphone",
+        "mail-h2": "Adresse électronique" 
+    }
+
+
+
+
+    
+}

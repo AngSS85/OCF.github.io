@@ -1,0 +1,73 @@
+{
+ 
+
+    "Post-header": {
+        "RY": "Reserva YA!"
+    },
+   
+   "nav_inicio": {
+    "SB": "Sobre nosotros",
+    "U" : "Unidades",
+    "S" : "Servicios",
+    "T" : "Tarifas",
+    "+I": "+ Información"
+   },
+
+    "contain": {
+        "bv": "BIENVENIDO <br> A TU HOGAR EN LA ISLA",
+        "sl": "¡Sientete libre de gosar en la perla del caribe!"
+    },
+
+    "main-json": {
+        "h2-main": "Nuestras <br> instalaciones",
+
+        "p-main": "En Posada <em>Casa de las Flores</em>, te invitamos a vivir una experiencia excepcional en un ambiente rodeado de belleza natural y comodidad. Nuestro (Hospedaje/Posada/Hostal/Lodging house/Auberge) cuenta con instalaciones de primera calidad, diseñadas para brindarte una estadía inolvidable y asequible."
+    },
+
+    "Temporal": {
+        "Tem": "Fotos Proximamente"    
+    },
+
+    "div-card": {
+    
+        "UC": "Unidades disponibles",
+        "M": "Matrimonial",
+        "MP": "¿Pareja o familia numerosa? no hay problema",
+        "D": "Duplex",
+        "DG": "¿Grupo de amigos? Bienvenidos sean",
+        "C": "Compartido",
+        "CG": "¿Grupo grande? a tu servicio"
+    },
+
+    "div-main": {
+    
+        "h2-main": "Servicios",
+        "p-main": "Como buen centro de hospedaje ofrecemos disponibilidad de cocina de total acceso, gran cantidad de baños, piscina y jacuzzi las 24 horas, amplio comedor para reuniones con parrilla al aire libre, menos de cinco minutos para llegar a una de las playas mas turisticas de la isla (Playa parguito) y entre muchas cosas mas."
+        
+    },
+
+    "i-costos": {
+        "h2-costos": "Tarifas",
+        "li1-costos": "30$ persona / dia",
+        "li2-costos": "30",
+        "li3-costos": "30"
+        
+    },
+
+    "ms-info": {
+    
+        "info-h2": "+ Información",
+        "ubi-h2": "Ubicación",
+        "text-h2": "Coordenadas",
+        "local-h2": "Localización",
+        "contac-h2": "Contactanos",
+        "tlf-h2": "Telefono",
+        "mail-h2": "Correo Electrónico"
+        
+    }
+
+
+
+
+    
+}
