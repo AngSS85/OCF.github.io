@@ -409,7 +409,7 @@ p {
     flex-direction: column;
     height: 100vh;
     scroll-margin-top: 35px;
-
+    
 }
 
 .U-card {
@@ -451,6 +451,7 @@ p {
     height: 400px;
     margin: 20px;
     border-radius: 15px;
+    box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
 }
 
 .card h2, .card p {
@@ -602,6 +603,7 @@ p {
 
 iframe {
     width: 100%;
+    height: 100%;
 }
 
 .card-2 {
